@@ -1,1 +1,5 @@
 thi is a a new file
+
+I am a change to  the second line of second file
+
+doing the third line of second file
